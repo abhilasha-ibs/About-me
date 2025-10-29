@@ -28,9 +28,7 @@ Feel free to explore my repositories and reach out if you're interested in colla
 
 ## 🏆 Certifications & Achievements
 
-- Free Certification Exams [Link to certificates]
-- Hackerrank Project Participant
-- Naukri Business Analyst Profile
+
 
 ## 🔗 Connect With Me
 
